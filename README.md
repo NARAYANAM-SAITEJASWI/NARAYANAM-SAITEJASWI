@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @NARAYANAM SAI TEJASWI
 - 👀 I’m interested in Machine Learning
-- 👩‍🎓 I’m currently a Student
-- 📫 How to reach me @saitejaswivzm@gmail.com
-
-- 
+- 👩‍🎓 I’m currently studying computer science engineering
+- ✉️ you can reach me through @saitejaswivzm@gmail.com
