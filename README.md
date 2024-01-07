@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NARAYANAM SAI TEJASWI
-- 👀 I’m interested in Machine Learning
-- 👩‍🎓 I’m currently studying computer science engineering
+- 👀 I’m currently learning fullstack development
+- 👩‍🎓 I’m studying computer science engineering
 - ✉️ you can reach me through @saitejaswivzm@gmail.com
