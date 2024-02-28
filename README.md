@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NARAYANAM SAI TEJASWI
-- 👀 I’m currently learning fullstack development
 - 👩‍🎓 I’m studying computer science engineering
+- 👀 Currently I am on track to learn machine learning
 - ✉️ you can reach me through @saitejaswivzm@gmail.com
