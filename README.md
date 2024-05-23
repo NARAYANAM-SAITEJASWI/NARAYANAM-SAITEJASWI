@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NARAYANAM SAI TEJASWI
-- 👩‍🎓 I’m studying computer science engineering
-- 👀 Currently I am on track to learn Data Science and Data Analytics.
+- 👋 Hloo..., I’m @SAI TEJASWI
+- 👩‍🎓 Currently pursuing my B-Tech in Computer Science 
+- 👩‍💻currently learning and working on Neural networks and NLP
 - ✉️ you can reach me through @saitejaswivzm@gmail.com
